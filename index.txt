@@ -1,4 +1,4 @@
-Ethan Ward - Web Developer from New York
+J Abiksha
 
 
 
@@ -26,23 +26,21 @@ Download CV
 
 alt = Ethan's Photo
 
-12
+4
 Years of Success
 
-800+
+Few
 Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
 
-alt = I'm developer from New York
+alt = I'm an Electrical Engineer
 
 Hello I'm
 
-Ethan Ward
+Abiksha
 
-Web Developer from New York
-
-Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
+.
 
 Get a Quote
 
@@ -139,15 +137,15 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
+Tirunelveli.
 
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+abikshaj25@gmail.com
 
 <ion-icon name="call"></ion-icon>
 Phone
-+123 456 7890
++7777777777
 
 
 
@@ -169,7 +167,7 @@ Jim Morisson Says when the musics over turn off the light
 
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+&copy; 2025 abiindream. All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
